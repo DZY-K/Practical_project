@@ -20,6 +20,7 @@ autocomplete="off" v-model.trim="username">
     </div>
     <!-- 登录和重置按钮 -->
     <div class="form-group form-inline d-flex justify-content-end">
+      <p>username:admin password:123123</p>
       <button type="button" class="btn btn-secondary mr-2" @click="reset">重置</button>
       <button type="button" class="btn btn-primary" @click="login">登录</button>
     </div>
