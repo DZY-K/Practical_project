@@ -1,6 +1,6 @@
 <template>
   <div class="wel-container">
-    123
+    欢迎来到淘淘乐电商后台管理系统
   </div>
 </template>
 
